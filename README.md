@@ -12,4 +12,6 @@ Just include this module in any template/page that contains a HubSpot form, and 
 
 - Change the accent color of the switch
 
+
+
 ![gdpr switches preview gif](https://cdn2.hubspot.net/hubfs/2660705/material-switches.gif "GDPR Switches Preview GIF")
