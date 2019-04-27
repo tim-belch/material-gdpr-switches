@@ -1,0 +1,15 @@
+[ {
+  "id" : "e944f95f-ec44-6631-7f0c-e511add61124",
+  "name" : "primary_color",
+  "type" : "color",
+  "label" : "Primary Color",
+  "sortable" : false,
+  "required" : false,
+  "locked" : false,
+  "hierarchical" : false,
+  "max_depth" : 0,
+  "default" : {
+    "color" : "#FF00FF",
+    "opacity" : 100
+  }
+} ]
